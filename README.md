@@ -9,7 +9,7 @@ Shri Karya Siddhi Hanuman Kannada Mantra App
   />
 </p>
 
-<h3 align="center"><a href="https://shri-karya-siddhi-hanuman-mantra-ap.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://shri-karya-siddhi-hanuman-kannada-m.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 
 
